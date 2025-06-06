@@ -1,0 +1,8 @@
+#ifdef POSRES_CA
+[ position_restraints ]
+;  i funct       fcx        fcy        fcz
+;1    1       1000       1000       1000
+;i function g (type) r (nm) k(kJ/mol)
+1	2		7		 0.9	100000
+1	2		4		 2.5	100000
+#endif

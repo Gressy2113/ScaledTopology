@@ -1,0 +1,28 @@
+;Include forcefield parameters
+#include "../indata/amber_JC2008.ff/forcefield.itp"
+#include "../indata/ions_nb_sigma_eps.itp"
+
+;EXTRA inludes if needed
+
+
+;Include component topologies
+#include "../indata/Protein_S5.itp"
+#include "../indata/Protein_S6.itp"
+#include "../indata/cl.itp"
+#include "../indata/ions.itp"
+#include "../indata/amber_JC2008.ff/spce.itp"
+
+
+[ system ]
+; Name
+Protein_Protein2_SOL_CL_MG
+
+[ molecules ]
+; Compound        #mols
+Protein_S5 1
+Protein_S6 1
+SOL 5553
+CL 1
+MG_s3 1
+
+

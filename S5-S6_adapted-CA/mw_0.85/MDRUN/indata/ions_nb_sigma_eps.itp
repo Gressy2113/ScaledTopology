@@ -1,0 +1,26 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Topology of ions for gromacs using ;
+; sigma (nm) and epsilon (kJ/mol)    ;
+; Author: Hector martinez-Seara      ;
+; v.6.1                              ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[ atomtypes ]
+;name  at.num    mass      charge   ptype   sigma     epsilon
+  Na_s  11      22.98977    0.750     A     0.211500  0.54428400 ; DOI: 10.1021/acs.jpcb.5b05221 ; Jungwirth2015 ; scaled
+  Na_jc 11      22.98977    1.000     A     0.215954  1.47545000 ; DOI: 10.1021/jp8001614; JoungCheatham 2008 ; for SPC/E
+  Ca_m  20      40.07800    2.000     A     0.291324  0.40953100 ; DOI: 10.1021/ct400146w ; Mertz2013 exact conversion from rmin/2, epsilon
+  Ca_n  20      40.07800    2.000     A     0.241000  0.94000000 ; DOI: 10.1063/1.4772808 ; Netz2013
+  Ca_s  20      40.07800    1.500     A     0.253800  0.50725000 ; DOI: 10.1021/jp5005693 ; Jungwirth2014 ; 
+  Ca_2s 20      40.07800    1.500     A     0.266558  0.50725000 ; DOI: 10.1063/1.5006779 ; Jungwirth2018 ; scaled ; 
+  Ca_3s 20      40.07800    1.600     A     0.266558  0.50725000 ; This work ; based on Ca_2s but charge 1.6 (scaling 0.8)
+  Ca_4s 20      40.07800    1.700     A     0.266558  0.50725000 ; This work ; based on Ca_3s but charge 1.7 (scaling 0.85)
+  Mg_c  12      24.305      2.000     A     0.189000  3.66100000 ; DOI: 10.1021/jp909132a; Callahan2010; full charges
+  Mg_m  12      24.305      2.000     A     0.242324  0.04268700 ; DOI: 10.1021/ct400146w ; Mertz2013 exact conversion from rmin/2, epsilon; CM set for SPC/E
+  Mg_ss 12      24.305      1.500     A     0.13600   3.661000   ; DOI:10.1021/acs.jpcb.7b09612; Duboué-Dijon2017; MG_scaled charge "small" version
+  Mg_sb 12      24.305      1.500     A     0.15500   3.661000   ; DOI:10.1021/acs.jpcb.7b09612; Duboué-Dijon2017; MG_scaled charge "big" version
+  Mg_s3 12      24.305      1.600     A     0.13600   3.661000   ; This work ; based on Mg_ss with charge 1.6 
+  Zn_k  30      65.409      2.000     A     0.19500   1.04600  ; DOI: 10.1002/prot.340230104; Stote,Karplus1995
+  Zn_s  30      65.409      1.500     A     0.17500   1.04600  ; DOI: 10.1002/prot.340230104; scaled charge based on Zn_k
+  Zn_s2  30      65.409      1.600     A     0.17500   1.04600  ; This work ; Zn_s wth 0.8 charge scaling
+

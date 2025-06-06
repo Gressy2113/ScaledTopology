@@ -1,0 +1,169 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Topology of ions for gromacs using ;
+; sigma (nm) and epsilon (kJ/mol)    ;
+; Author: Hector Martinez-Seara      ;
+; v.6.1                              ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;###        SODIUM                ###;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[ moleculetype ]
+; Name   nrexcl
+NA_jc         1
+; DOI: 10.1021/jp8001614; JoungCheatham 2008 ; for SPC/E
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1    Na_jc      1      NA      NA       1           1.0      22.98977
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[ moleculetype ]
+; Name   nrexcl
+NA_s          1
+; DOI: DOI: 10.1021/acs.jpcb.5b05221 ; Jungwirth2015 ; scaled
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1    Na_s       1      NA      NA       1          0.75      22.98977
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;###        CALCIUM               ###;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[ moleculetype ]
+; Name   nrexcl
+CA_m          1
+; DOI: 10.1021/ct400146w ; Mertz2013
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1    Ca_m      1       CA      CA       1           2.0      40.07800
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[ moleculetype ]
+; Name   nrexcl
+CA_n          1
+; DOI: 10.1063/1.4772808 ; Netz2013
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1    Ca_n      1       CA      CA       1           2.0      40.07800
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[ moleculetype ]
+; Name   nrexcl
+CA_s          1
+; DOI: 10.1021/jp5005693 ; Jungwirth2014 ; scaled ; ECCR (Note: Based on Ca_g)
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1    Ca_s       1      CA      CA       1           1.5      40.07800
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[ moleculetype ]
+; Name   nrexcl
+CA_2s         1
+; DOI: 10.1063/1.5006779 ; Jungwirth2018 ; scaled ; ECCR+~5% sigma ; (Note: Based on Ca_g); (preferred parameters)
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1    Ca_2s      1      CA      CA       1           1.5      40.07800
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[ moleculetype ]
+; Name   nrexcl
+CA_3s         1
+; DOI: This work ; based on Ca_2s but charge 1.6 
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1    Ca_3s      1      CA      CA       1           1.6      40.07800
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[ moleculetype ]
+; Name   nrexcl
+MG_c         1
+; DOI: 10.1021/jp909132a; Callahan2010; full charges 
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1    Mg_c      1      MG      MG       1           2.00       24.305
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[ moleculetype ]
+; Name   nrexcl
+MG_m         1
+; DOI: 10.1021/ct400146w ; Mertz2013 exact conversion from rmin/2, epsilon, CM set for SPC/E
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1    Mg_m      1      MG      MG       1           2.00       24.305
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[ moleculetype ]
+; Name   nrexcl
+MG_ss        1
+; DOI:10.1021/acs.jpcb.7b09612; Duboué-Dijon2017; MG_scaled charge "small" version
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1    Mg_ss     1      MG      MG       1           1.50       24.305
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[ moleculetype ]
+; Name   nrexcl
+MG_sb        1
+; DOI:10.1021/acs.jpcb.7b09612; Duboué-Dijon2017; MG_scaled charge "big" version
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1    Mg_sb     1      MG      MG       1           1.50       24.305
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[ moleculetype ]
+; Name   nrexcl
+MG_s3        1
+; This work ; based on Mg_ss with charge 1.6 
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1    Mg_s3     1      MG      MG       1           1.60       24.305
+#include "posre_mg.itp"
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[ moleculetype ]
+; Name   nrexcl
+ZN_k          1
+; DOI: 10.1002/prot.340230104; Stote&Karplus 1995
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1    Zn_k       1      ZN      ZN       1           2.0        65.409
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[ moleculetype ]
+; Name   nrexcl
+ZN_s          1
+; DOI: 10.1002/prot.340230104; scaled charge+VDW version of Stote&Karplus 1995
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1    Zn_s       1      ZN      ZN       1           1.5        65.409
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[ moleculetype ]
+; Name   nrexcl
+ZN_s2          1
+; This work ; Zn_s with 0.8 charge scaling 
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1    Zn_s2      1      ZN      ZN       1           1.6        65.409
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
