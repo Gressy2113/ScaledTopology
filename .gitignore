@@ -1,0 +1,14 @@
+IMPULSE
+
+Ace-*/*/COLVAR
+Ace-*/*/FES
+Ace-*/*/HILLS
+Ace-*/*/md.xtc
+Ace-*/*/md.tpr
+
+S5-S6*/*/COLVAR
+S5-S6*/*/FES
+S5-S6*/*/HILLS
+S5-S6*/*/*/COLVAR*
+S5-S6*/*/*/md.xtc
+S5-S6*/*/*/md.tpr

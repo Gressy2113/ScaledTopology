@@ -1,0 +1,1386 @@
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= 0.005059103305503559 kJ/mol
+dW_bond= 6.448264756025751 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= 8.387634720592885 kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= 0.007282801501876398 kJ/mol
+dW_bond= -32.08175756740622 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -30.140163904642716 kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= 0.007282801502795799 kJ/mol
+dW_bond= -37.73411356409215 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -35.79251990132772 kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= 0.0072828015023574996 kJ/mol
+dW_bond= -40.80364732173583 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -38.862053658971845 kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= 0.007282801502571513 kJ/mol
+dW_bond= -43.12613783507408 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -41.184544172309884 kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= 0.007282801504153498 kJ/mol
+dW_bond= -45.12103791744142 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -43.17944425467563 kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= 0.002281459958690599 kJ/mol
+dW_bond= -44.06375103573882 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -42.1271587145185 kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= 0.002134140798551462 kJ/mol
+dW_bond= -42.33068450734348 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -40.394239505283295 kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= 0.0011061828910346285 kJ/mol
+dW_bond= -40.109787525948526 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -38.17437048179586 kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= 0.005916732600289315 kJ/mol
+dW_bond= -38.085362408297534 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -36.145134814435615 kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= 0.0036925265475658176 kJ/mol
+dW_bond= -37.227086412955884 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -35.28908302514669 kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= 0.0014385851458562752 kJ/mol
+dW_bond= -35.74260554311263 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -33.80685609670515 kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= 0.0028294800479785856 kJ/mol
+dW_bond= -34.78006919590215 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -32.84292885459255 kJ/mol
+177 128
+[0.0405492, 3.14872] [2.73024, 7.19482]
+dW_bulk= 0.0018569189607167461 kJ/mol
+dW_bond= -34.20027732377077 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -32.26410954354843 kJ/mol
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.0058619458748823796 kJ/mol
+dW_bond= -3.751506540456862 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -1.8113337333203503 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.005417116305163163 kJ/mol
+dW_bond= -2.4327748395574194 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -0.4930468619906263 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.0014604602757583886 kJ/mol
+dW_bond= -3.13219109407799 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -1.1964197725406012 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.0013654864722210257 kJ/mol
+dW_bond= -2.310936979677291 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -0.37526063194343995 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.0012057741094036371 kJ/mol
+dW_bond= -4.583256589262948 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.6477399538919144 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.001676499519827868 kJ/mol
+dW_bond= -4.277461606196122 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.3414742454146644 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.0016356755550252663 kJ/mol
+dW_bond= -5.068231768018933 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -3.132285231202277 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.0007701331710918362 kJ/mol
+dW_bond= -4.962979891197989 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -3.027898896765267 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.0009836723343013927 kJ/mol
+dW_bond= -5.396267966079834 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -3.460973432483902 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.0011646690842601482 kJ/mol
+dW_bond= -5.927058506938228 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -3.991582976592337 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.0013273804029668543 kJ/mol
+dW_bond= -5.055382007255325 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -3.119743765590728 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.0003549646053975498 kJ/mol
+dW_bond= -4.736285062331046 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.8016192364640182 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.0003398555598434292 kJ/mol
+dW_bond= -5.052214839381498 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -3.117564122560024 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.0005090313616479928 kJ/mol
+dW_bond= -5.248996570998093 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -3.3141766783748143 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.0005778408849341738 kJ/mol
+dW_bond= -5.495695835257081 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -3.5608071331105164 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.0005585397811481228 kJ/mol
+dW_bond= -5.2138180269904915 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -3.2789486259477134 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.0006089859102049163 kJ/mol
+dW_bond= -5.309259392264989 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -3.374339545093154 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.00042920979248627035 kJ/mol
+dW_bond= -5.0213162852661615 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -3.0865762142120454 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.0005870319364599503 kJ/mol
+dW_bond= -5.306986230007631 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -3.3720883368095413 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.0006689718509819409 kJ/mol
+dW_bond= -5.137813236501247 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -3.202833403388635 kJ/mol
+178 137
+[0.0315449, 3.15281] [2.74549, 7.52194]
+dW_bulk= 0.0006689718509848018 kJ/mol
+dW_bond= -5.13781323650125 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -3.202833403388636 kJ/mol
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.003027663695006792 kJ/mol
+dW_bond= -2.0935152183026213 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -0.15617669334598408 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.0034277598546391115 kJ/mol
+dW_bond= -1.4528536364053222 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= 0.4848849847109471 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.002096334841184048 kJ/mol
+dW_bond= -1.6770433534768314 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= 0.25936384262598283 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.0031186742926933952 kJ/mol
+dW_bond= -2.0294473786233653 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -0.09201784306904244 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.0015283454069018082 kJ/mol
+dW_bond= -1.7056372464816052 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= 0.2302019601869267 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.0008817751610376293 kJ/mol
+dW_bond= -1.995588852185782 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -0.060396215763114255 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.0014584420213358251 kJ/mol
+dW_bond= -1.9450487654112023 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -0.009279462128236061 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.0030856256755399936 kJ/mol
+dW_bond= -2.648875169210671 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -0.7114786822735011 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.003182344849771777 kJ/mol
+dW_bond= -2.7871208280453916 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -0.8496276219339899 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.0023558947038388204 kJ/mol
+dW_bond= -2.531659863687044 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -0.5949931077215749 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.0034665154520197505 kJ/mol
+dW_bond= -2.486151103329867 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -0.5483737266162169 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.0008133503385413631 kJ/mol
+dW_bond= -2.6925319104656507 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -0.7574076988654793 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.0013301848100231923 kJ/mol
+dW_bond= -2.5004066116251726 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -0.5647655655535193 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.0008338303906338086 kJ/mol
+dW_bond= -2.3087551178712054 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -0.37361042621894125 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.0006561593749793448 kJ/mol
+dW_bond= -1.7630548260639665 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= 0.1719121945726431 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.0006445349866326867 kJ/mol
+dW_bond= -2.268513976457972 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -0.33355858020970885 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.0005180861187410479 kJ/mol
+dW_bond= -1.9563741927592844 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -0.021545245378913516 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.00034320096699867503 kJ/mol
+dW_bond= -1.7916741964118938 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= 0.14297986581673483 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.0003228266710271889 kJ/mol
+dW_bond= -1.5701338624260188 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= 0.36449982550663806 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.0004962538522239685 kJ/mol
+dW_bond= -1.4268946837146574 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= 0.5079124313991968 kJ/mol
+175 181
+[0.0668522, 3.14052] [3.17414, 9.50791]
+dW_bulk= 0.0004964892990149107 kJ/mol
+dW_bond= -1.426870502222228 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= 0.5079368483384167 kJ/mol
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.006241512920156002 kJ/mol
+dW_bond= -2.771575925927918 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -0.8310235517461318 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.006010539860217255 kJ/mol
+dW_bond= -3.613994311347568 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -1.673672910225721 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.004526942930266721 kJ/mol
+dW_bond= -4.453379209280053 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.5145414050881563 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.0041905355860015255 kJ/mol
+dW_bond= -4.371677330067234 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.4331759332196023 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.0034551379230435826 kJ/mol
+dW_bond= -5.121947371797231 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -3.1841813726125574 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.001810044085150752 kJ/mol
+dW_bond= -5.168908291792422 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -3.232787386445642 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.002200640657088824 kJ/mol
+dW_bond= -5.179965080399215 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -3.243453578480497 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.0016323448301264 kJ/mol
+dW_bond= -4.816318012443356 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.880374806351599 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.001319376234509773 kJ/mol
+dW_bond= -4.076154764074791 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.140524526578651 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.002920862698089748 kJ/mol
+dW_bond= -3.9821997670897686 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.0449680431300488 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.0014237077118098608 kJ/mol
+dW_bond= -3.8583695889242695 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -1.922635019950829 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.0011199914830707413 kJ/mol
+dW_bond= -4.01282065826511 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.0773898055204083 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.0014303818705808894 kJ/mol
+dW_bond= -4.010125265565037 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.074384022432826 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.0011309503826377172 kJ/mol
+dW_bond= -4.105431467233488 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.1699896555892195 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.0017474453438313857 kJ/mol
+dW_bond= -4.129005935389229 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.192947628783768 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.0016015389822918473 kJ/mol
+dW_bond= -4.365556084117376 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.429643683873454 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.0009272982017384043 kJ/mol
+dW_bond= -4.4302765644294935 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.495038404966125 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.000549405745964831 kJ/mol
+dW_bond= -4.053010275693187 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.118150008685592 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.00019908376517567065 kJ/mol
+dW_bond= -4.024050921101811 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.089540976075005 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.00013027834579047509 kJ/mol
+dW_bond= -4.218141731759977 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.283700592152557 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.00018735053883398196 kJ/mol
+dW_bond= -4.402505276652764 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.4680070648523 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.00021613442308137662 kJ/mol
+dW_bond= -4.67464265442389 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.740115658739178 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.00020134986128512384 kJ/mol
+dW_bond= -4.592098251335052 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.6575860402121374 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.00048614250921407467 kJ/mol
+dW_bond= -4.706587349073308 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.771790345302463 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.00031536990184829734 kJ/mol
+dW_bond= -4.4592608742468 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.5246346430833215 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.00018266420460166547 kJ/mol
+dW_bond= -4.467558605024836 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.5330650795586043 kJ/mol
+176 174
+[0.0687757, 3.14946] [3.28703, 9.38322]
+dW_bulk= 0.0001855544507610256 kJ/mol
+dW_bond= -4.530714079556475 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -2.5962176638440844 kJ/mol
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/home/veretenenko/miniconda3/envs/plumed/lib/libplumedKernel.so" +++
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= -inf kJ/mol
+dW_bond= inf kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= nan kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.006794318783302054 kJ/mol
+dW_bond= -12.463225163053654 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -10.522119983008722 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.005261684527132724 kJ/mol
+dW_bond= -12.794683393685888 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -10.855110847897127 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.005417101633086361 kJ/mol
+dW_bond= -12.406905993307637 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -10.46717803041292 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0028056633910074334 kJ/mol
+dW_bond= -12.084672026129368 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -10.147555501476731 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0032355894692078597 kJ/mol
+dW_bond= -12.619621122396927 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -10.682074671666088 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.003880804600445252 kJ/mol
+dW_bond= -11.926313628766275 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -9.988121962904199 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.004861737165897522 kJ/mol
+dW_bond= -12.283875009977685 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -10.344702411550156 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.006175897812734742 kJ/mol
+dW_bond= -12.72236944060479 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -10.781882681530423 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0035404074019624284 kJ/mol
+dW_bond= -12.998953421019422 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.061102152355831 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.005093007606872914 kJ/mol
+dW_bond= -12.414416599752947 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -10.475012730884444 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0040230319164644085 kJ/mol
+dW_bond= -12.35605856866227 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -10.417724675484175 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0027534683325295575 kJ/mol
+dW_bond= -12.838311290419053 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -10.901246960824894 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0026916335909087795 kJ/mol
+dW_bond= -12.672325450755421 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -10.735322955902884 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.003547059323059072 kJ/mol
+dW_bond= -13.405761814979003 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.467903894394311 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0029570238607347582 kJ/mol
+dW_bond= -13.513209849910313 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.57594196478795 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.004146588377516067 kJ/mol
+dW_bond= -13.066994744609612 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.128537294970467 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0021993319232219304 kJ/mol
+dW_bond= -12.66031224365387 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -10.723802050469018 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.000903877708933947 kJ/mol
+dW_bond= -12.751387095316884 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -10.816172356346321 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.002300463778473102 kJ/mol
+dW_bond= -12.81438811120184 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -10.877776786161736 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0031080929268009027 kJ/mol
+dW_bond= -12.662460810309922 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -10.72504185612149 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.003856466916160637 kJ/mol
+dW_bond= -12.785360129640416 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -10.847192801462628 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.004039789879186111 kJ/mol
+dW_bond= -12.868052976041325 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -10.929702324900507 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0017987960637985889 kJ/mol
+dW_bond= -13.117641958069768 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.181532300744339 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0022155050313205794 kJ/mol
+dW_bond= -13.244581516330975 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.30805515003802 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0020770300514869446 kJ/mol
+dW_bond= -13.395656543806698 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.459268652493583 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.001584820821030758 kJ/mol
+dW_bond= -13.257568014668783 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.321672332586123 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0012334807535499962 kJ/mol
+dW_bond= -13.45538878738229 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.519844445367111 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0018462246812845137 kJ/mol
+dW_bond= -13.382777954772116 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.4466208688292 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.001570702371883563 kJ/mol
+dW_bond= -13.6338752992822 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.697993735648687 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0012195616708150629 kJ/mol
+dW_bond= -13.793607009913082 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.858076586980633 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0019267008255356975 kJ/mol
+dW_bond= -13.81424581831654 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.878008256229375 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0024330705083280705 kJ/mol
+dW_bond= -14.042161390863674 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -12.105417459093717 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0017502604495564656 kJ/mol
+dW_bond= -13.909057178036951 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.972996056325762 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0008872240150958893 kJ/mol
+dW_bond= -13.740682795108835 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.80548470983211 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0018735928955754128 kJ/mol
+dW_bond= -13.602378892477839 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.666194438320632 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0020203481180556177 kJ/mol
+dW_bond= -13.673193076629989 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.736861867250303 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0023806149563213677 kJ/mol
+dW_bond= -13.477439864449543 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.540748388231593 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.002616408425158435 kJ/mol
+dW_bond= -13.529582333683104 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.592655063996316 kJ/mol
+176 166
+[0.0678646, 3.14947] [3.14725, 8.97841]
+dW_bulk= 0.0024595776378370593 kJ/mol
+dW_bond= -13.476988356103057 kJ/mol
+dGv= 1.9343108612616304 kJ/mol
+dG0= -11.540217917203591 kJ/mol
