@@ -12,5 +12,9 @@ S5-S6*/*/HILLS
 S5-S6*/*/*/COLVAR*
 S5-S6*/*/*/md.xtc
 S5-S6*/*/*/md.tpr
+
+S5-S6_apo*
+
 *.pyc
 *.out
+__pycache__
