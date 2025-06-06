@@ -1,6 +1,6 @@
 
-# import matplotlib
 import os
+import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.interpolate import griddata, interp1d
@@ -11,7 +11,7 @@ import sys
 #Load and reshape the data
 
 ############################################################################
-FOLDER = sys.argv[1] #'/home/veretenenko/TRPV6-spermine/METAD/o.310.5.cam.popc_p2p3/METAD.2D.6'
+FOLDER = sys.argv[1] 
 npts = int(sys.argv[2])  #Number of intermediate points on the string.
 
 stepmax=int(sys.argv[3])
@@ -21,8 +21,21 @@ pref=sys.argv[4]
 if not os.path.exists(f'{FOLDER}/img_string'):
 	os.mkdir(f'{FOLDER}/img_string')
 
+##
+fes_2d = pd.read_csv(f'{FOLDER}/fes_dens_2D.csv', sep = ' ', header = None)
+fes_2d = fes_2d.fillna(np.nanmax(fes_2d))
+
+d1 = pd.read_csv(f'{FOLDER}/d1.csv', sep = ' ', header = None).T.rename(columns={0:'d', 1:'G'})
+d2 = pd.read_csv(f'{FOLDER}/d2.csv', sep = ' ', header = None).T.rename(columns={0:'d', 1:'G'})
+
+with open(f'{FOLDER}/reweight/data.txt', 'w') as f: 
+	for i in range(fes_2d.shape[1]): 
+		for j in range(fes_2d.shape[0]): 
+			#print(i, j, d1.shape, d2.shape, fes_2d.shape)
+			f.write(f"{d1['d'].iloc[i]} {d2['d'].iloc[j]} {fes_2d[i][j]}\n")
+
+##
 data = np.loadtxt(f"{FOLDER}/reweight/data.txt")
-print(data)
 row_min = data[np.where(data[:, 2] == data[:, 2].min())[0][0]]
 print(row_min, flush=True)
 

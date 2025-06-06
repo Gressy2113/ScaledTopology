@@ -153,7 +153,6 @@ def reweight_3d(COLVAR,
         plt.plot(dist, dist_fes, '.-', label = f'D580\ndG={round(dG_580, 3)}', color = 'tab:orange')
         np.savetxt(f'{FOLDER}/d2.csv', np.vstack((dist, dist_fes)))
 
-    #print(f'{round(dG_489, 2)} {round(dG_580, 2)}')
     ###
     if plot:
         #plt.ylim(-20, 20)

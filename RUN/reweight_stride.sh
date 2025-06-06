@@ -1,7 +1,7 @@
 
 # nohup python SCRIPTS/metad_stride_reweight.py S5-S6_adapted-MG/mw_0.8 5 0 90 > np.out & 
-nohup python SCRIPTS/metad_stride_reweight.py S5-S6_adapted-CA/mw_0.85 5 12 90 > np2.out & 
-# nohup python SCRIPTS/metad_stride_reweight.py S5-S6_adapted-CA/mw_0.8 5 0 49 > np1.out & 
+nohup python SCRIPTS/metad_stride_reweight.py S5-S6_adapted-CA/mw_0.85 5 0 90 > np4.out & 
+nohup python SCRIPTS/metad_stride_reweight.py S5-S6_adapted-CA/mw_0.8 5 0 90 > np5.out & 
 
 
 # nohup python SCRIPTS/metad_stride_reweight.py S5-S6_apo-MG/mw_0.8 5 0 12 > np1.out & 

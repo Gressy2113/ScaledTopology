@@ -6,8 +6,8 @@ import matplotlib
 
 matplotlib.rcParams['svg.fonttype'] = 'none'
 
-from SCRIPTS.func_block import reweight_3d, read_fes_3d, dG_calc
-from SCRIPTS.func_plot import plot_prof
+from .func_block import reweight_3d, read_fes_3d, dG_calc
+from .func_plot import plot_prof
 import warnings
 warnings.filterwarnings("ignore")
 import scipy.ndimage
